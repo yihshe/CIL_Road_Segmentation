@@ -1,5 +1,7 @@
 """
 UNet model structure.
+Add skip connection (resnet-like) on every layer (encoder/decoder)
+Contain 5 layers (deep version)
 """
 
 import torch 

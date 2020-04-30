@@ -1,5 +1,5 @@
 """
-UNet model structure.
+UNet model structure. 4 layers
 """
 
 import torch 

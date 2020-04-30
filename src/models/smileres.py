@@ -1,5 +1,6 @@
 """
-UNet model structure.
+UNet model structure. add skip connection
+4-layer version
 """
 
 import torch 
