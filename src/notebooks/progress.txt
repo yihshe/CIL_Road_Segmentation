@@ -1,0 +1,7 @@
+
+Running the code08-04-2020-Apr-1586363532
+Params : {'bsize': 64, 'psize': 80, 'threshold': 0.25}
+Running the code08-04-2020-Apr-1586363738
+Params : {'bsize': 64, 'psize': 80, 'threshold': 0.25}
+Running the code08-04-2020-Apr-1586365556
+Params : {'bsize': 64, 'psize': 80, 'threshold': 0.25}
