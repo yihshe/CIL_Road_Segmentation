@@ -45,7 +45,7 @@ python train_predict.py
 
 ### ```Data Manipulation.ipynb```
 This notebook contains code for generating image patches 256 by 256 in size.
-The stride of moving the viewing window is 64 pixels. (1/4 of 256)
+The stride of moving the viewing window is 64 pixels. (1/4 of 256	)
 
 ### ```data.py```
 
@@ -62,7 +62,7 @@ Define: Dice coefficient calculation, Dice loss, BinaryCrossentropy loss and F1 
 ### ```model.py```
 
 *  `unet`: Modified U-Net with local skip connection (as in ResNet), dropout and batch-normalization
-*  `unet_dilated`: U-Net with dilated convolution as bottlenect; dropout is not used in this model.
+*  `unet_dilated`: U-Net with dilated convolution as bottleneck; dropout is not used in this model.
 
 
 ### ```mask_to_submission.py```
