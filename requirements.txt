@@ -1,0 +1,8 @@
+numpy
+keras>=2.2.4
+tensorflow>=1.14.0,<1.16.0
+h5py
+scikit_learn
+matplotlib
+scikit_image
+Pillow
