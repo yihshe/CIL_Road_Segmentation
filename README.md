@@ -43,6 +43,10 @@ python train_predict.py
 
 ## Modules and Notebooks
 
+### ```Data Manipulation.ipynb```
+This notebook contains code for generating image patches 256 by 256 in size.
+The stride of moving the viewing window is 64 pixels. (1/4 of 256)
+
 ### ```data.py```
 
 Functions for data preprocessing.
